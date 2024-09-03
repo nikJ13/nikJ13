@@ -3,8 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at UBS Business Solutions in the Risk Management Team
-- 🌱 I’m currently learning more about the ETL and Data Warehousing Process.
+- I'm currently pursuing Masters of Computational Data Science from Carnegie Mellon University, School of Computer Science.
+- 🔭 I worked at UBS Business Solutions in the Risk Management Team
+- 🌱 I have worked on ETL and Data Warehousing Processes.
 - 👯 I’m looking to collaborate on Deep Learning and Data Visualisation projects.
 
 #### Tech Stack:   
