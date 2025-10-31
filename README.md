@@ -1,9 +1,7 @@
 ### Hi there, I'm Niket Jain 👋
 
-
-Here are some ideas to get you started:
-
 - I'm currently pursuing Masters of Computational Data Science from Carnegie Mellon University, School of Computer Science.
+- I have worked at Honeywell Inc as an MLE Intern.
 - 🔭 I worked at UBS Business Solutions in the Risk Management Team
 - 🌱 I have worked on ETL and Data Warehousing Processes.
 - 👯 I’m looking to collaborate on Deep Learning and Data Visualisation projects.
