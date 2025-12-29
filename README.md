@@ -2,7 +2,7 @@
 
 # Hi there, I'm Niket Jain 👋
 
-**MS Computational Data Science @ CMU (GPA 4.0)** | **ML Intern @ Honeywell** | **NeurIPS 2025 Datasets Track** | Building scalable LLM inference engines & agentic systems
+**MS Computational Data Science @ CMU (GPA 4.03)** | **ML Intern @ Honeywell** | **NeurIPS 2025 Datasets Track** | Building scalable LLM inference engines & agentic systems
 
 </div>
 
