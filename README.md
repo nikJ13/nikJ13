@@ -49,7 +49,7 @@ MLflow  •  Databricks  •  Modal  •  CUDA
 
 PyTorch-like framework with custom CPU/GPU backends for sparse ops. Optimized efficient GNN training and inference.
 
-### [Data Attribution Benchmark for LLMs]([https://github.com/DataAttributionEval/DATE-LM])
+### [Data Attribution Benchmark for LLMs](https://github.com/DataAttributionEval/DATE-LM)
 **NeurIPS 2025 Datasets Track** | Python, Hugging Face, Ray
 
 Benchmarked 8 data attribution methods across Pythia-1B to Llama-3.1-8B. Hugging Face leaderboard with 70% evaluation burden reduction.
