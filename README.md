@@ -4,10 +4,8 @@
 
 **MS Computational Data Science @ CMU (GPA 4.0)** | **ML Intern @ Honeywell** | **NeurIPS 2025 Datasets Track** | Building scalable LLM inference engines & agentic systems
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikJ13&theme=radical)](https://github.com/nikJ13)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikJ13&layout=compact&theme=radical)](https://github.com/nikJ13)
-
 </div>
+
 
 ## 🚀 Featured Experience
 
