@@ -39,17 +39,17 @@ MLflow  •  Databricks  •  Modal  •  CUDA
 
 ## 🔥 Featured Projects
 
-### [Inference Engine for Heterogeneous LLM Workloads](https://github.com/nikJ13/inference-engine)
+### [Inference Engine for Heterogeneous LLM Workloads](https://github.com/nikJ13/Inference-Engine-for-Heterogeneous-LLM-Workloads)
 **CMU, Dec 2025** | PyTorch, vLLM, Kubernetes
 
 300 concurrent requests on 2x A100s with dynamic batching from first principles. Task routing: Self-Consistency (MMLU), Tool-use (Graph), Greedy (InfoBench).
 
-### [Neural Network Backend Accelerator](https://github.com/nikJ13/needle)
+### [Neural Network Backend Accelerator](https://github.com/nikJ13/Sparse-Tensor-Operations-in-Needle)
 **CMU, Dec 2025** | C++, CUDA, Python
 
 PyTorch-like framework with custom CPU/GPU backends for sparse ops. Optimized efficient GNN training and inference.
 
-### [Data Attribution Benchmark for LLMs](https://github.com/nikJ13/data-attribution)
+### [Data Attribution Benchmark for LLMs](https://github.com/nikJ13/DATELM)
 **NeurIPS 2025 Datasets Track** | Python, Hugging Face, Ray
 
 Benchmarked 8 data attribution methods across Pythia-1B to Llama-3.1-8B. Hugging Face leaderboard with 70% evaluation burden reduction.
@@ -62,7 +62,7 @@ Scalable multi-agent orchestration framework for complex workflows and distribut
 ## 📚 Education & Publications
 
 **Carnegie Mellon University** — *MS Computational Data Science* (Aug 2024 - Dec 2025)
-- GPA: 4.03/4.0
+- GPA: 4.0/4.0
 - TA: Mathematical Foundations of ML, Interactive Data Science
 - Coursework: LLM Methods, Deep Learning Systems, LM Inference, Cloud Computing
 
