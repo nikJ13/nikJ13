@@ -62,7 +62,7 @@ Scalable multi-agent orchestration framework for complex workflows and distribut
 ## 📚 Education & Publications
 
 **Carnegie Mellon University** — *MS Computational Data Science* (Aug 2024 - Dec 2025)
-- GPA: 4.0/4.0
+- GPA: 4.03/4.0
 - TA: Mathematical Foundations of ML, Interactive Data Science
 - Coursework: LLM Methods, Deep Learning Systems, LM Inference, Cloud Computing
 
